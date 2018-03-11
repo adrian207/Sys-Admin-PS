@@ -5,7 +5,7 @@ Several scripts for different tasks to be able to automate certain resources and
 
 Your contributions are always welcome!
 
-[![Have questions\issues\problems, please email me 
+Have questions\issues\problems, please email me 
 
 ## Guidelines
 
